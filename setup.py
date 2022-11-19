@@ -2,9 +2,9 @@ from setuptools import setup,find_packages
 from typing import List
 
 #Declaring variables for setup functions
-PROJECT_NAME="kafka"
+PROJECT_NAME="Kafka data streamline"
 VERSION="0.0.3"
-AUTHOR="Avnish Yadav"
+AUTHOR="rahul"
 DESRCIPTION="This is a sample project for kafka producer and consumer"
 
 REQUIREMENT_FILE_NAME="requirements.txt"
